@@ -1,0 +1,11 @@
+Order ID,Customer Name,Surname,Email,Shipping Country,Shipping Time,Item,Item Colour,Item Size
+1001,John,Doe,john.doe@gmail.com,USA,2023-05-01,Shirt,Red,M
+1002,Jane,Smith,jane.smith@yahoo.com,Canada,2023-05-02,Pants,Blue,L
+1003,Emily,Johnson,emily.johnson@hotmail.com,UK,2023-05-03,Jacket,Black,S
+1004,Michael,Williams,michael.williams@outlook.com,Australia,2023-05-04,Shoes,White,10
+1005,Jessica,Brown,jessica.brown@domain.com,New Zealand,2023-05-05,Hat,Green,One Size
+1006,David,Jones,david.jones@service.com,Ireland,2023-05-06,Socks,Yellow,L
+1007,Laura,Garcia,laura.garcia@provider.com,Spain,2023-05-07,Scarf,Pink,One Size
+1008,Chris,Miller,chris.miller@mail.com,Germany,2023-05-08,Gloves,Gray,M
+1009,Ashley,Martinez,ashley.martinez@web.com,France,2023-05-09,Sweater,Purple,L
+1010,Daniel,Davis,daniel.davis@net.com,Italy,2023-05-10,Belt,Brown,M
